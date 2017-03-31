@@ -1,4 +1,4 @@
-# Curso-C
+# Curso de Estadistica
 
 ## TEMARIO
 
